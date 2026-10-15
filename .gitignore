@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+runs/
+wandb/
+*.log
+workers.json
+datasets/
+models/*.pt
+models/*.onnx
