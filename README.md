@@ -656,6 +656,11 @@ GitHub: \[@NirmalyaLenka](https://github.com/NirmalyaLenka)
 
 ---
 
+## Skills & technologies
+
+`Python`
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026
