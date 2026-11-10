@@ -12,3 +12,7 @@ workers.json
 datasets/
 models/*.pt
 models/*.onnx
+
+data/*.db
+data/*.sqlite
+data/*.sqlite3
