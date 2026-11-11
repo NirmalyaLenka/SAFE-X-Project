@@ -120,6 +120,6 @@ If the model file, camera, or dependencies are unavailable, the dashboard will n
 
 ## Maintenance & validation
 
-- **Documentation review:** 10 November 2026.
+- **Documentation review:** 11 November 2026.
 - **Scope:** README formatting, repository map, and model setup instructions were revised.
 - **Validation status:** No end-to-end test or hardware run was performed as part of this documentation change. Compile/run checks and model validation remain necessary.
